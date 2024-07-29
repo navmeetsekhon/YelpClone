@@ -1,0 +1,6 @@
+@Yelp_HostAddress = http://localhost:5163
+
+GET {{Yelp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
